@@ -84,7 +84,7 @@ Contains image files.
 
 # Images
 
-![2D-Maze Game Pic](https://user-images.githubusercontent.com/44834632/138765500-bd3838d0-fe46-4018-87b0-21143fb77e8b.png)
+![2D-Maze Game Pic!](https://user-images.githubusercontent.com/44834632/138765500-bd3838d0-fe46-4018-87b0-21143fb77e8b.png)
 
  
 ## Texture sources
